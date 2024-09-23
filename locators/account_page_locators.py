@@ -7,4 +7,4 @@ class AccountPageLocators:
     ACCOUNT_LOGOUT_BUTTON = By.XPATH, "//*[text()='Выход']"
     MAIN_PAGE_COUNT = By.XPATH, '//h2[contains(@class,"title_shadow")]'
     LAST_ORDER_NUMBER = By.XPATH, '//li[last()]//p[contains(text(), "#")]'
-    
+

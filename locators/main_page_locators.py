@@ -18,3 +18,4 @@ class MainPageLocators:
     BUN_N200I = '//*[text()="Краторная булка N-200i"]'
     ORDER_IMAGE = By.XPATH, '//div[@class="Modal_modal__P3_V5"]'
     ORDER_NUMBER = By.XPATH, '//*[contains(@class,"title_shadow")]'
+

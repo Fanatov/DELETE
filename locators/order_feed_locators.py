@@ -7,4 +7,4 @@ class OrderFeedLocators:
     TODAY_COUNTER = By.XPATH, '//div[3]/p[contains(@class,"OrderFeed_number")]'
     CURRENT_ORDERS = By.XPATH, "//ul[2]/*[@class='text text_type_digits-default mb-2']"
     LAST_ORDER_NUMBER = By.XPATH, '//li[1]//p[contains(text(), "#")]'
-    
+
